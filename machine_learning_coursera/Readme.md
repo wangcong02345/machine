@@ -15,5 +15,4 @@ a. 修改host文件, 加入以下内容
 52.84.246.227    d3c33hcgiwev3.cloudfront.net
 b. 刷新缓存: cmd--> ipconfig /flushdns
 ```
-[https://www.zhihu.com/question/29433255](https://www.zhihu.com/question/29433255)  
-<font color="red"> ** 需要通过图形 ** </font>  
+引自: [https://www.zhihu.com/question/29433255](https://www.zhihu.com/question/29433255)  

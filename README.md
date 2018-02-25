@@ -1,2 +1,3 @@
 ## machine
+machine_learning_coursera 是coursera上吴恩达课后题及答案
 machine_learning 目录是有关机器学习的代码及文档
